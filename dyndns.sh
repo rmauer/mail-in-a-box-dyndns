@@ -3,7 +3,7 @@
 # Configuration
 MAILINABOX_HOST="box.example.invalid"
 API_URI="admin/dns/custom"
-MAILINABOX_EMAIL="admin@example.invalid"
+MAILINABOX_EMAIL="CHANGE_ME"
 MAILINABOX_PASSWORD="CHANGE_ME"
 RECORDS_TO_UPDATE=("box2.example.invalid" "sub.box2.example.invalid")
 PUBIP_RESOLVER="ifconfig.me"
